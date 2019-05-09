@@ -37,6 +37,8 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - https://github.com/zowe/docs-site/issues/512 - Automating/Improving Release Notes
+      - Conformance in progress for each squad
 
 
 6. Legal Requirements
