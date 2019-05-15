@@ -48,6 +48,10 @@ Agenda Items
     -
 5. Squad Status:
     - Installation (Joe)
+        Complete  - Manual end to end build of SMP/e has been run on river and tested installed on IBM machine.
+        In progress - automating of this with jenkins pipeline to include in overnight build working with SCM managed scripts
+        In progress - build is unconfigured at the moment so configuration scripts need including
+        Not started - automated install of SMP/e on river to run smoke tests against.  (May slip into sprint 2)
     - Onboarding (JoeW/TimB)
     - Core/Web/Editor (JPL/Reet/Nolan)
     - Core/CLI (Mike B/Kyle)
